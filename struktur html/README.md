@@ -1,7 +1,4 @@
 # Contoh Struktur HTML
-
-Proyek ini menunjukkan struktur dasar dokumen HTML, seperti yang dijelaskan dalam slide berjudul "Pengantar HTML & Struktur dokumen HTML". Di bawah ini adalah penjelasan setiap baris dalam kode contoh.
-
 ## Penjelasan Kode
 
 1. `<!DOCTYPE html>`:
